@@ -11,3 +11,7 @@
 # Testing Levels - Acceptance Testing
  
  https://docs.google.com/document/d/1gg6bxuEQnhbk5mj_7mX0OXkPZqmy6tIMC3mhKkgdq2o/edit?usp=sharing
+
+# White box - Pseudocode 
+
+ https://docs.google.com/document/d/1c0un1s7NjkRScbJl8uLfS0PzaICR3g-zkjTjuopW3Fc/edit?usp=sharing
