@@ -15,3 +15,7 @@
 # White box - Pseudocode 
 
  https://docs.google.com/document/d/1c0un1s7NjkRScbJl8uLfS0PzaICR3g-zkjTjuopW3Fc/edit?usp=sharing
+
+# Command line & Git
+
+ https://docs.google.com/document/d/14M4Yr06t0ZBtIZb7rjRrKyvHHqmYUpGToql4B1iSNyg/edit?usp=sharing
